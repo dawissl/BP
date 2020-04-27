@@ -1,0 +1,89 @@
+[
+  {
+    "_id": "5e9868181c9d440000cd7059",
+    "gps": "15.7972150,50.1783439",
+    "address": "Březhradská 199, Březhrad",
+    "position": 0
+  },
+    {
+      "_id": "5e9867d31c9d440000cd7058",
+      "gps": "15.6411481,50.1450778",
+      "address": "Dobřenice 114, Dobřenice",
+      "position": 12
+    },{
+  "_id": "5e9867231c9d440000cd7011",
+  "gps": "15.6619278,50.1558489",
+  "address": "Syrovátka 134, Syrovátka",
+  "position": 14
+},
+   
+    {
+      "_id": "5e9868621c9d440000cd705a",
+      "gps": "15.7776831,50.1610331",
+      "address": "Pohřebačka 128, Opatovice nad Labem",
+      "position": 3
+    },
+    {
+      "_id": "5e9868ad1c9d440000cd705b",
+      "gps": "15.7790403,50.1329319",
+      "address": "K. Čapka 319, Čeperka",
+      "position": 4
+    },
+    {
+      "_id": "5e9867231c9d440000cd7057",
+      "gps": "15.6871747,50.1440119",
+      "address": "Osice 63, Osice",
+      "position": 1
+    },
+    {
+      "_id": "5e9867231c9d440000cd7051",
+      "gps": "15.6403817,50.2012078",
+      "address": "Homyle 69, Boharyně",
+      "position": 5
+    },{
+      "_id": "5e9867231c9d440000cd7061",
+      "gps": "15.6925800,50.1893994",
+      "address": "Libčany 96, Libčany",
+      "position": 6
+    },{
+      "_id": "5e9867231c9d440000cd7057",
+      "gps": "15.7881364,50.1735600",
+      "address": "U Hřiště 61/6, Hradec Králové",
+      "position": 8
+    },{
+      "_id": "5e9867231c9d440000cd7034",
+      "gps": "15.6962817,50.1688906",
+      "address": "Lhota pod Libčany 113, Lhota pod Libčany",
+      "position": 7
+    },{
+      "_id": "5e9867231c9d440000cd70ba",
+      "gps": "15.7376628,50.1288094",
+      "address": "Podůlšany 61, Podůlšany",
+      "position": 10
+    },{
+      "_id": "5e9867231c9d440000cd704b",
+      "gps": "15.6992831,50.1918225",
+      "address": "Libčany 241, Libčany",
+      "position": 9
+    },{
+      "_id": "5e9867231c9d440000cd7093",
+      "gps": "15.6809392,50.1743158",
+      "address": "Lhota pod Libčany 215, Lhota pod Libčany",
+      "position": 13
+    },{
+      "_id": "5e9867231c9d440000cd70a1",
+      "gps": "15.6058322,50.1677428",
+      "address": "Kratonohy 26, Kratonohy",
+      "position": 11
+    },{
+      "_id": "5e9867231c9d440000cd7088",
+      "gps": "15.6126503,50.1427556",
+      "address": "Michnovka 12, Kratonohy",
+      "position": 2
+    },{
+      "_id": "5e9867231c9d440000cd702a",
+      "gps": "15.7321747,50.1540342",
+      "address": "Sedlice 44, Praskačka",
+      "position": 15
+    }
+  ]
