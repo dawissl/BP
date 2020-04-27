@@ -131,6 +131,13 @@ const sort = (numberOfClusters) => {
     return path;
 };
 
+/**
+ * Get index of nearest point from row of matrix
+ * @param lengthArr row of visited point
+ * @param nodeArr array of points on row
+ * @param path actual path
+ * @returns {number} index of next point
+ */
 function nearestIndex(lengthArr, nodeArr, path) {
 
     let index = 0;
@@ -154,10 +161,21 @@ function nearestIndex(lengthArr, nodeArr, path) {
     return index;
 }
 
+/**
+ *  Computing distance betwen two points in matrix - this part should be replaced by API call
+ * @param destA first point
+ * @param destB second point
+ * @returns {number} length between points
+ */
 function getLength(destA, destB) {
     return distance(destA, destB);
 }
 
+/**
+ * Creating matrix of length between points in cluster or base matrix with start point
+ * @param vertices list of addresses
+ * @returns {[]} matrix of length
+ */
 const createMatrix = (vertices) => {
     let outMatrix = [];
 
@@ -174,7 +192,7 @@ const createMatrix = (vertices) => {
     return outMatrix;
 };
 /**
- * Computing Euclid distances
+ * Computing Euclid distances using GPS coordinates
  * @param centroid data of centroid
  * @param node data of node to compute
  * @returns {number} distance between points
